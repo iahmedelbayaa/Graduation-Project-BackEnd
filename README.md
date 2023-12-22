@@ -1,7 +1,7 @@
 # nodejs-apps
-# Notes API & Books API in one application
+# Registertion App application
 
-Notes-app is an API for listing and creating and updating notes and also an API for listing and details and creating and updating books library 
+Registertion-app is an API for listing and creating and updating notes and also an API for listing and details and creating and updating student Data 
 
 ## Installation
 
